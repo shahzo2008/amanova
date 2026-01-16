@@ -121,6 +121,9 @@ body {
     padding: 30px;
     text-align: left;
     transition: 0.3s;
+    width: 380px;
+    height: 380px;
+    
 }
 
 .card .icon {
